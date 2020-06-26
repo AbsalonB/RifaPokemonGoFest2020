@@ -1,0 +1,15 @@
+{
+  "name": "rifaraidsmulticentro",
+  "version": "1.0.0",
+  "description": "Rifa de pase de pokemon fest",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rifa",
+    "pokemon"
+  ],
+  "author": "Absalon Blanco",
+  "license": "MIT"
+}
